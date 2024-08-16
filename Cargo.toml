@@ -1,0 +1,9 @@
+[package]
+name = "auto_lina"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+active-win-pos-rs = "0.8.3"
+enigo = "0.2.1"
+simulate = "0.3.0"
